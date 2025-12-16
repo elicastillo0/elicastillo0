@@ -31,10 +31,10 @@ Organizo los proyectos por tema y estado, con enlaces directos a cada repositori
 
 ## 📝 Prácticas intermedias
 
-### 🔹 Módulo 1
+### 🔹 Módulo 1
 - [Práctica 1 – Estructura básica de HTML](https://github.com/elicastillo0/ejercicio1)
 
-### 🔹 Módulo 2
+### 🔹 Módulo 2
 - [Práctica 1 – Fundamentos de JavaScript – Variables, funciones y alcance](https://github.com/elicastillo0/pr-ctica2)
 - [Práctica 2 – Uso de Literales de Plantilla y Parámetros](https://github.com/elicastillo0/practica2.1)
 - [Práctica 3 – Exploración de Operadores Modernos y Manipulación de Objetos en JavaScript](https://github.com/elicastillo0/practica3)
