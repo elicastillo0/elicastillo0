@@ -7,7 +7,7 @@ Organizo los proyectos por tema y estado, con enlaces directos a cada repositori
 
 ## ✅ Pruebas completadas y corregidas
 
-- 📦 [Prueba 1 – GIT. Control de versiones](https://github.com/elicastillo0/prueba1_git)
+- 📦 [Prueba 1 – GIT. Control de versiones](https://github.com/elicastillo0/practica1)
 - 📦 [Prueba 2 BIS – ECMAScript 2015](https://github.com/elicastillo0/prueba2bis_ecmascript2015)
 - 📦 [Prueba 3 – TypeScript](https://github.com/elicastillo0/prueba3_typescript)
 - 📦 [Prueba 4 – Testing](https://github.com/elicastillo0/prueba4_testing)
@@ -31,10 +31,45 @@ Organizo los proyectos por tema y estado, con enlaces directos a cada repositori
 
 ## 📝 Prácticas intermedias
 
+### 🔹 Módulo 1
+- [Práctica 1 – Estructura básica de HTML](https://github.com/elicastillo0/ejercicio1)
+
+### 🔹 Módulo 2
+- [Práctica 1 – Fundamentos de JavaScript – Variables, funciones y alcance](https://github.com/elicastillo0/pr-ctica2)
+- [Práctica 2 – Uso de Literales de Plantilla y Parámetros](https://github.com/elicastillo0/practica2.1)
+- [Práctica 3 – Exploración de Operadores Modernos y Manipulación de Objetos en JavaScript](https://github.com/elicastillo0/practica3)
+- [Práctica 4 – Funciones Flecha y Métodos Avanzados para Arrays en JavaScript](https://github.com/elicastillo0/practica4)
+- [Práctica 5 – Uso de forEach() y map() en JavaScript con Promesas](https://github.com/elicastillo0/practica5)
+
+### 🔹 Módulo 3
+- [Práctica 1 – Primeros pasos con JavaScript – Variables y Salida en Consola](https://github.com/elicastillo0/practica1modulo3)
+- [Práctica 2 – Tipos Primitivos en TypeScript](https://github.com/elicastillo0/practica2modulo3)
+- [Práctica 3 – Creación de Clases con Métodos en JavaScript](https://github.com/elicastillo0/practica3modulo3)
+- [Práctica 4 – Funciones Flecha y Métodos Avanzados para Arrays en JavaScript](https://github.com/elicastillo0/practica4)
+- [Práctica 5 – Uso de forEach() y map() en JavaScript con Promesas](https://github.com/elicastillo0/practica5)
+
+### 🔹 Módulo 4
+- [Práctica 1 – Diseño de Pruebas Automatizadas en JavaScript con Jest](https://github.com/elicastillo0/practica1modulo4)
+- [Práctica 2 – Aplicación Web Interactiva con Tareas en JavaScript](https://github.com/elicastillo0/practica2modulo4)
+- [Práctica 3 – Automatización de Pruebas con Cypres](https://github.com/elicastillo0/practica3modulo4)
+- [Práctica 4 – Pruebas Unitarias con JavaScript y Jest](https://github.com/elicastillo0/practica4modulo4)
+
+### 🔹 Módulo 5
+- [Práctica 1 – Desarrollo con Node.js – Manejo de Módulos y Archivos](https://github.com/elicastillo0/practica1modulo5_node)
+- [Práctica 2 – Manejo de Eventos con Node.js](https://github.com/elicastillo0/practica2modulo5_node)
+- [Práctica 3 – Aplicación Express con Middleware Personalizado](https://github.com/elicastillo0/practica3modulo5_express)
+- [Práctica 4 – Middleware Personalizado en Express](https://github.com/elicastillo0/practica4modulo5_middleware)
+- [Práctica 5 – Manejo de Archivos](https://github.com/elicastillo0/practica5modulo5_archivos)
+- [Práctica 6 – Lógica de Respuestas](https://github.com/elicastillo0/practica6modulo5_logicarespuestas)
 ### 🔹 Módulo 6
 - [Práctica 1 – Entidades](https://github.com/elicastillo0/practica1_entidades)
 - [Práctica 2 – Verbos HTTP y Swagger](https://github.com/elicastillo0/practica2_verbosHTTPswagger)
 - [Práctica 3 – Códigos de Estado HTTP](https://github.com/elicastillo0/practica3_codigosEstadoHTTP)
+
+### 🔹 Módulo 7
+
+### 🔹 Módulo 8
+- [Práctica Adicional – appnodeci: despliegue automático en Heroku usando GitHub Actions](https://github.com/elicastillo0/appnodeci)
 
 *(Iré añadiendo más prácticas conforme avance en los módulos)*
 
@@ -55,3 +90,4 @@ Organizo los proyectos por tema y estado, con enlaces directos a cada repositori
 - 🅰️ Angular  
 - 🔄 RxJS / Redux  
 - 🏗️ Arquitectura y buenas prácticas  
+
