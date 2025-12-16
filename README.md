@@ -8,13 +8,13 @@ Organizo los proyectos por tema y estado, con enlaces directos a cada repositori
 ## ✅ Pruebas completadas y corregidas
 
 - 📦 [Prueba 1 – GIT. Control de versiones](https://github.com/elicastillo0/practica1)
-- 📦 [Prueba 2 BIS – ECMAScript 2015](https://github.com/elicastillo0/prueba2bis_ecmascript2015)
-- 📦 [Prueba 3 – TypeScript](https://github.com/elicastillo0/prueba3_typescript)
-- 📦 [Prueba 4 – Testing](https://github.com/elicastillo0/prueba4_testing)
-- 📦 [Prueba 5 – Node.js](https://github.com/elicastillo0/prueba5_nodejs)
-- 📦 [Prueba 6 – Diseño y desarrollo de APIs](https://github.com/elicastillo0/prueba6_apis)
-- 📦 [Prueba 7 – Bases de datos](https://github.com/elicastillo0/prueba7_basesdedatos)
-- 📦 [Prueba 8 – DevOps](https://github.com/elicastillo0/prueba8_devops)
+- 📦 [Prueba 2 – ECMAScript 2015](https://github.com/elicastillo0/practica2)
+- 📦 [Prueba 3 – TypeScript](https://github.com/elicastillo0/PR3)
+- 📦 [Prueba 4 – Testing](https://github.com/elicastillo0/prueba-final-modulo-4)
+- 📦 [Prueba 5 – Node.js](https://github.com/elicastillo0/prueba-final-modulo-5)
+- 📦 [Prueba 6 – Diseño y desarrollo de APIs](https://github.com/elicastillo0/prueba-final-modulo-6)
+- 📦 [Prueba 7 – Bases de datos]**PENDIENTE DE SUBIR**
+- 📦 [Prueba 8 – DevOps](https://github.com/elicastillo0/prueba-final-modulo-8)
 
 ---
 
@@ -70,6 +70,9 @@ Organizo los proyectos por tema y estado, con enlaces directos a cada repositori
 
 ### 🔹 Módulo 8
 - [Práctica Adicional – appnodeci: despliegue automático en Heroku usando GitHub Actions](https://github.com/elicastillo0/appnodeci)
+- [Práctica 2 – Verbos HTTP y Swagger](https://github.com/elicastillo0/practica2_verbosHTTPswagger)
+- [Práctica 3 – Códigos de Estado HTTP](https://github.com/elicastillo0/practica3_codigosEstadoHTTP)
+
 
 *(Iré añadiendo más prácticas conforme avance en los módulos)*
 
