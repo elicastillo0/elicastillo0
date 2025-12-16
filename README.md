@@ -85,9 +85,10 @@ Organizo los proyectos por tema y estado, con enlaces directos a cada repositori
 - 📑 Swagger / APIs REST  
 - 🗄️ Bases de datos  
 - ⚙️ DevOps  
-- 🌍 Desarrollo Web  
+- 🌍 Desarrollo Web
+
+## 🚀 Tecnologías pendientes de practicar
 - ⚛️ ReactJS / React Router  
 - 🅰️ Angular  
 - 🔄 RxJS / Redux  
-- 🏗️ Arquitectura y buenas prácticas  
-
+- 🏗️ Arquitectura y buenas prácticas
