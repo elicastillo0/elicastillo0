@@ -1,7 +1,9 @@
 # 👨‍💻 Eli Castillo Pérez – Full Stack Developer en formación
 
-Este perfil recopila todas mis **pruebas y prácticas** del Curso Full Stack Developer – Deusto Formación.  
+Este perfil recopila todas mis **pruebas y prácticas** del Curso Full Stack Developer – Deusto Formación.
+
 He organizado los proyectos por tema y estado, con enlaces directos a cada repositorio.
+
 Mi objetivo es mostrar un portafolio académico y profesional transparente que refleje tanto los logros alcanzados como las tecnologías que sigo aprendiendo.
 
 ### 📌 Logros hasta ahora
