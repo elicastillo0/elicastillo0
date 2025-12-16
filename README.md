@@ -1,7 +1,13 @@
 # 👨‍💻 Eli Castillo Pérez – Full Stack Developer en formación
 
 Este perfil recopila todas mis **pruebas y prácticas** del Curso Full Stack Developer – Deusto Formación.  
-Organizo los proyectos por tema y estado, con enlaces directos a cada repositorio.
+He organizado los proyectos por tema y estado, con enlaces directos a cada repositorio.
+Mi objetivo es mostrar un portafolio académico y profesional transparente que refleje tanto los logros alcanzados como las tecnologías que sigo aprendiendo.
+
+### 📌 Logros hasta ahora
+- ✅ Pruebas completadas en **Git y control de versiones**, **ECMAScript 2015**, **TypeScript**, **Testing automatizado**, **Node.js**, **Diseño y desarrollo de APIs REST**, **Bases de datos** y **DevOps**.
+- ✅ Prácticas intermedias en **HTML**, **JavaScript moderno**, **TypeScript**, **Jest**, **Cypress**, **Node.js con Express** y **Swagger**.
+- ✅ Configuración de flujos de trabajo de **CI/CD con GitHub Actions** y despliegues automáticos en **Heroku**.
 
 ---
 
@@ -75,17 +81,15 @@ Organizo los proyectos por tema y estado, con enlaces directos a cada repositori
 
 ---
 
-## 🚀 Tecnologías trabajadas
-
-- 🟢 Git & Control de versiones  
-- 🌐 ECMAScript 2015 / JavaScript  
-- 💻 TypeScript  
-- 🧪 Testing  
-- 🟢 Node.js  
-- 📑 Swagger / APIs REST  
-- 🗄️ Bases de datos  
-- ⚙️ DevOps  
-- 🌍 Desarrollo Web
+### 🚀 Habilidades adquiridas 
+- 🟢 Control de versiones con **Git y GitHub**.
+- 🌐 Desarrollo de aplicaciones con **JavaScript (ES6+)** y **TypeScript**.
+- 💻 Backend con **Node.js y Express**, incluyendo **middleware personalizado**.
+- 📑 Documentación de APIs con **Swagger/OpenAPI**.
+- 🧪 Testing automatizado con **Jest** y **Cypress**.
+- 🗄️ Diseño y consulta de **bases de datos**.
+- ⚙️ Configuración de **flujos CI/CD** en GitHub Actions y despliegues en Heroku.
+- 🌍 Desarrollo web con **HTML, CSS y JavaScript**.
 
 ## 🚀 Tecnologías pendientes de practicar
 - ⚛️ ReactJS / React Router  
