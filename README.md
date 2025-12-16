@@ -70,9 +70,6 @@ Organizo los proyectos por tema y estado, con enlaces directos a cada repositori
 
 ### 🔹 Módulo 8
 - [Práctica Adicional – appnodeci: despliegue automático en Heroku usando GitHub Actions](https://github.com/elicastillo0/appnodeci)
-- [Práctica 2 – Verbos HTTP y Swagger](https://github.com/elicastillo0/practica2_verbosHTTPswagger)
-- [Práctica 3 – Códigos de Estado HTTP](https://github.com/elicastillo0/practica3_codigosEstadoHTTP)
-
 
 *(Iré añadiendo más prácticas conforme avance en los módulos)*
 
