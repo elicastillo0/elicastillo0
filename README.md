@@ -1,4 +1,4 @@
-# 👨‍💻 Elí Castillo Pérez – Full Stack Developer en formación (8 de 14 módulos superados)
+# 👨‍💻 Elí Castillo Pérez – Full Stack Developer en formación (9 de 14 módulos superados)
 
 Este perfil recopila todas mis **pruebas y prácticas** del Curso Full Stack Developer – Deusto Formación.
 
@@ -7,7 +7,7 @@ He organizado los proyectos por tema y estado, con enlaces directos a cada repos
 Mi objetivo es mostrar un portafolio académico y profesional transparente que refleje tanto los logros alcanzados como las tecnologías que sigo aprendiendo.
 
 ### 📌 Logros hasta ahora
-- ✅ Pruebas completadas en **Git y control de versiones**, **ECMAScript 2015**, **TypeScript**, **Testing automatizado**, **Node.js**, **Diseño y desarrollo de APIs REST**, **Bases de datos** y **DevOps**.
+- ✅ Pruebas completadas en **Git y control de versiones**, **ECMAScript 2015**, **TypeScript**, **Testing automatizado**, **Node.js**, **Diseño y desarrollo de APIs REST**, **Bases de datos**, **DevOps** y **Desarrollo Web**.
 - ✅ Prácticas intermedias en **HTML**, **JavaScript moderno**, **TypeScript**, **Jest**, **Cypress**, **Node.js con Express** y **Swagger**.
 - ✅ Configuración de flujos de trabajo de **CI/CD con GitHub Actions** y despliegues automáticos en **Heroku**.
 
@@ -23,12 +23,11 @@ Mi objetivo es mostrar un portafolio académico y profesional transparente que r
 - 📦 [Prueba 6 – Diseño y desarrollo de APIs](https://github.com/elicastillo0/prueba-final-modulo-6)
 - 📦 [Prueba 7 – Bases de datos]**PENDIENTE DE SUBIR**
 - 📦 [Prueba 8 – DevOps](https://github.com/elicastillo0/prueba-final-modulo-8)
-
+- 📦 [Prueba 9 – Desarrollo web]**PENDIENTE DE SUBIR**
 ---
 
 ## ⏳ Pruebas pendientes
 
-- 📌 Prueba 9 – Desarrollo Web → Pendiente de enviar  
 - 📌 Prueba 10 – ReactJS → Pendiente de realizar  
 - 📌 Prueba 11 – React Router → Pendiente de realizar  
 - 📌 Prueba 12 – Angular → Pendiente de realizar  
