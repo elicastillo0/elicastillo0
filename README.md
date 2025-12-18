@@ -1,6 +1,6 @@
 # 👨‍💻 Elí Castillo Pérez – Full Stack Developer en formación (9 de 14 módulos superados)
 
-Este perfil recopila todas mis **pruebas y prácticas** del Curso Full Stack Developer – Deusto Formación.
+Este perfil recopila todas mis **pruebas y prácticas** del Curso Supeior Full Stack Developer en Deusto Formación.
 
 He organizado los proyectos por tema y estado, con enlaces directos a cada repositorio.
 
