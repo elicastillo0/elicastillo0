@@ -131,9 +131,9 @@ Despliegues automáticos en Heroku
 - 🗄️ Diseño y consulta de **bases de datos**.
 - ⚙️ Configuración de **flujos CI/CD** en GitHub Actions y despliegues en Heroku.
 - 🌍 Desarrollo web con **HTML, CSS y JavaScript**.
+- ⚛️ ReactJS / React Router
 
-## 🚀 Tecnologías pendientes de practicar
-- ⚛️ ReactJS / React Router  
+## 🚀 Tecnologías pendientes de practicar  
 - 🅰️ Angular  
 - 🔄 RxJS / Redux  
 - 🏗️ Arquitectura y buenas prácticas
