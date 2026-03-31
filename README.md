@@ -114,6 +114,7 @@ Despliegues automáticos en Heroku
 - [Práctica 1 – MySQL + Node.js](https://github.com/elicastillo0/practica1_MySQL)
 - [Práctica 2 – MongoDB + Mongoose (API LaLiga)](https://github.com/elicastillo0/practica2_Mongoose)
 ### 🔹 Módulo 8
+- [Práctica 1 - Docker: Contenerización de una Aplicación Node.js](https://github.com/elicastillo0/practica1_docker)
 - [Práctica Adicional – appnodeci: despliegue automático en Heroku usando GitHub Actions](https://github.com/elicastillo0/appnodeci)
 
 *(Iré añadiendo más prácticas conforme avance en los módulos)*
