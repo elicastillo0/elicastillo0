@@ -117,6 +117,8 @@ Despliegues automáticos en Heroku
 - [Práctica 1 - Docker: Contenerización de una Aplicación Node.js](https://github.com/elicastillo0/practica1_docker)
 - [Práctica 2 – Docker Compose: API Node.js con MongoDB](https://github.com/elicastillo0/practica2_docker)
 - [Práctica Adicional – appnodeci: despliegue automático en Heroku usando GitHub Actions](https://github.com/elicastillo0/appnodeci)
+### 🔹 Módulo 9
+- [Práctica 1 - HTML&CSS]
 
 *(Iré añadiendo más prácticas conforme avance en los módulos)*
 
