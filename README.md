@@ -58,7 +58,7 @@ Despliegues automáticos en Heroku
 - 📦 [Prueba 4 – Testing](https://github.com/elicastillo0/prueba-final-modulo-4)
 - 📦 [Prueba 5 – Node.js](https://github.com/elicastillo0/prueba-final-modulo-5)
 - 📦 [Prueba 6 – Diseño y desarrollo de APIs](https://github.com/elicastillo0/prueba-final-modulo-6)
-- 📦 [Prueba 7 – Bases de datos]**PENDIENTE DE SUBIR**
+- 📦 [Prueba 7 – Bases de datos](https://github.com/elicastillo0/prueba-final-modulo-7)
 - 📦 [Prueba 8 – DevOps](https://github.com/elicastillo0/prueba-final-modulo-8)
 - 📦 [Prueba 9 – Desarrollo web]**PENDIENTE DE SUBIR**
 ---
