@@ -9,6 +9,7 @@ Mi objetivo es mostrar un portafolio académico y profesional transparente que r
 ### 📌 Logros hasta ahora
 
 🧪 Pruebas oficiales
+
 ✅ 10 pruebas superadas con nota máxima (10/10)
 
 📤 Prueba 11 (React Router) enviada el 31/03/2026 – pendiente de corrección
@@ -16,6 +17,7 @@ Mi objetivo es mostrar un portafolio académico y profesional transparente que r
 ⏳ Prueba 12 (Angular) pendiente de realizar
 
 🛠️ Competencias técnicas adquiridas
+
 Git y control de versiones
 
 ECMAScript 2015 (ES6+)
@@ -37,6 +39,7 @@ Desarrollo Web (HTML5, CSS3, JS moderno)
 React y React Router
 
 🚀 Prácticas destacadas
+
 Proyectos en HTML + CSS, JavaScript moderno, TypeScript, Node.js, Express, Swagger/OpenAPI
 
 Baterías de tests con Jest y Cypress
