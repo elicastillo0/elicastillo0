@@ -61,12 +61,12 @@ Despliegues automáticos en Heroku
 - 📦 [Prueba 7 – Bases de datos](https://github.com/elicastillo0/prueba-final-modulo-7)
 - 📦 [Prueba 8 – DevOps](https://github.com/elicastillo0/prueba-final-modulo-8)
 - 📦 [Prueba 9 – Desarrollo web]**PENDIENTE DE SUBIR**
+- 📦 [Prueba 10 – ReactJS]**PENDIENTE DE SUBIR**
 ---
 
 ## ⏳ Pruebas pendientes
 
-- 📌 Prueba 10 – ReactJS → Pendiente de realizar  
-- 📌 Prueba 11 – React Router → Pendiente de realizar  
+- 📌 Prueba 11 – React Router → Pendiente de corrección  
 - 📌 Prueba 12 – Angular → Pendiente de realizar  
 - 📌 Prueba 13 – Programación Reactiva (RxJS y Redux) → Pendiente de realizar  
 - 📌 Prueba 14 – Arquitectura y buenas prácticas → Pendiente de realizar  
