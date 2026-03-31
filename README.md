@@ -1,4 +1,4 @@
-# 👨‍💻 Elí Castillo Pérez – Full Stack Developer en formación (9 de 14 módulos superados)
+# 👨‍💻 Elí Castillo Pérez – Full Stack Developer en formación (11 de 14 módulos enviados – 10 superados)
 
 Este perfil recopila todas mis **pruebas y prácticas** del Curso Superior Full Stack Developer en Deusto Formación.
 
@@ -7,9 +7,43 @@ He organizado los proyectos por tema y estado, con enlaces directos a cada repos
 Mi objetivo es mostrar un portafolio académico y profesional transparente que refleje tanto los logros alcanzados como las tecnologías que sigo aprendiendo.
 
 ### 📌 Logros hasta ahora
-- ✅ Pruebas completadas en **Git y control de versiones**, **ECMAScript 2015**, **TypeScript**, **Testing automatizado**, **Node.js**, **Diseño y desarrollo de APIs REST**, **Bases de datos**, **DevOps** y **Desarrollo Web**.
-- ✅ Prácticas intermedias en **HTML**, **JavaScript moderno**, **TypeScript**, **Jest**, **Cypress**, **Node.js con Express** y **Swagger**.
-- ✅ Configuración de flujos de trabajo de **CI/CD con GitHub Actions** y despliegues automáticos en **Heroku**.
+
+🧪 Pruebas oficiales
+✅ 10 pruebas superadas con nota máxima (10/10)
+
+📤 Prueba 11 (React Router) enviada el 31/03/2026 – pendiente de corrección
+
+⏳ Prueba 12 (Angular) pendiente de realizar
+
+🛠️ Competencias técnicas adquiridas
+Git y control de versiones
+
+ECMAScript 2015 (ES6+)
+
+TypeScript
+
+Testing automatizado (Jest, Cypress)
+
+Node.js y Express
+
+Diseño y desarrollo de APIs REST
+
+Bases de datos SQL y NoSQL
+
+DevOps básico (Docker, CI/CD)
+
+Desarrollo Web (HTML5, CSS3, JS moderno)
+
+React y React Router
+
+🚀 Prácticas destacadas
+Proyectos en HTML + CSS, JavaScript moderno, TypeScript, Node.js, Express, Swagger/OpenAPI
+
+Baterías de tests con Jest y Cypress
+
+Pipelines de CI/CD con GitHub Actions
+
+Despliegues automáticos en Heroku
 
 ---
 
