@@ -41,15 +41,14 @@ He organizado los repositorios cronológicamente por temas y módulos, reflejand
 - 📦 [Prueba 8 – DevOps](https://github.com/elicastillo0/prueba-final-modulo-8)
 - 📦 [Prueba 9 – Desarrollo web](https://github.com/elicastillo0/prueba-final-modulo-9)
 - 📦 [Prueba 10 – ReactJS](https://github.com/elicastillo0/prueba-final-modulo-10)
-- 📦 [Prueba 11 – React Router]**PENDIENTE DE SUBIR**
+- 📦 [Prueba 11 – React Router](https://github.com/elicastillo0/prueba-final-modulo-11)
 ---
 
-## ⏳ Pruebas pendientes
+## ⏳ Pruebas pendientes de subir
 
-- 📌 Prueba 11 – React Router → Pendiente de corrección  
-- 📌 Prueba 12 – Angular → Pendiente de realizar  
-- 📌 Prueba 13 – Programación Reactiva (RxJS y Redux) → Pendiente de realizar  
-- 📌 Prueba 14 – Arquitectura y buenas prácticas → Pendiente de realizar  
+- 📌 Prueba 12 – Angular 
+- 📌 Prueba 13 – Programación Reactiva (RxJS y Redux) 
+- 📌 Prueba 14 – Arquitectura y buenas prácticas
 
 ---
 
