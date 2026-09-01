@@ -102,6 +102,7 @@ He organizado los repositorios cronológicamente por temas y módulos, reflejand
 - [Práctica 3 – Preprocesamiento CSS con Sass](https://github.com/elicastillo0/practica3_sass)
 - [Práctica 4 – Arquitectura de estilos escalable y modular utilizando el Patrón 7-1 en Sass](https://github.com/elicastillo0/practica4_patron7-1)
 - [Práctica 5 – Maquetación responsive con sistema de grid y componentes interactivos Collapse en Bootstrap 5](https://github.com/elicastillo0/practica5_bootstrap)
+- [Práctica 6 – Integración y Clases de Utilidad con Tailwind CSS](https://github.com/elicastillo0/practica6_tailwind)
   
 *(Iré añadiendo más prácticas conforme avance en los módulos)*
 
