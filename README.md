@@ -113,6 +113,7 @@ He organizado los repositorios cronológicamente por temas y módulos, reflejand
 - [Práctica 2 - Estado, Efectos y Componentes en React](https://github.com/elicastillo0/practica2_react)
 - [Práctica 3 – Formularios y Componentes Controlados](https://github.com/elicastillo0/practica3_reactformularios)
 - [Práctica 4 – Patrón de diseño Higher-Order Components (HOC) para la reutilización de lógica en React](https://github.com/elicastillo0/practica4_hoc)
+- [Práctica 5 – Creación y configuración de aplicaciones React con el bundler de nueva generación Vite](https://github.com/elicastillo0/practica5_vite)
   
 *(Iré añadiendo más prácticas conforme avance en los módulos)*
 
