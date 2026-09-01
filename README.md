@@ -40,7 +40,8 @@ He organizado los repositorios cronológicamente por temas y módulos, reflejand
 - 📦 [Prueba 7 – Bases de datos](https://github.com/elicastillo0/prueba-final-modulo-7)
 - 📦 [Prueba 8 – DevOps](https://github.com/elicastillo0/prueba-final-modulo-8)
 - 📦 [Prueba 9 – Desarrollo web](https://github.com/elicastillo0/prueba-final-modulo-9)
-- 📦 [Prueba 10 – ReactJS]**PENDIENTE DE SUBIR**
+- 📦 [Prueba 10 – ReactJS](https://github.com/elicastillo0/prueba-final-modulo-10)
+- 📦 [Prueba 11 – React Router]**PENDIENTE DE SUBIR**
 ---
 
 ## ⏳ Pruebas pendientes
