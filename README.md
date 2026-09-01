@@ -101,6 +101,7 @@ He organizado los repositorios cronológicamente por temas y módulos, reflejand
 - [Práctica 2 – Layouts Flexbox y CSS Grid](https://github.com/elicastillo0/practica2_flexboxgrid)
 - [Práctica 3 – Preprocesamiento CSS con Sass](https://github.com/elicastillo0/practica3_sass)
 - [Práctica 4 – Arquitectura de estilos escalable y modular utilizando el Patrón 7-1 en Sass](https://github.com/elicastillo0/practica4_patron7-1)
+- [Práctica 5 – Maquetación responsive con sistema de grid y componentes interactivos Collapse en Bootstrap 5](https://github.com/elicastillo0/practica5_bootstrap)
   
 *(Iré añadiendo más prácticas conforme avance en los módulos)*
 
