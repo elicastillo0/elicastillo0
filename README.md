@@ -97,7 +97,8 @@ He organizado los repositorios cronológicamente por temas y módulos, reflejand
 - [Práctica 2 – Docker Compose: API Node.js con MongoDB](https://github.com/elicastillo0/practica2_docker)
 - [Práctica Adicional – appnodeci: despliegue automático en Heroku usando GitHub Actions](https://github.com/elicastillo0/appnodeci)
 ### 🔹 Módulo 9
-- [Práctica 1 - HTML&CSS](https://github.com/elicastillo0/practica1_htmlcss)
+- [Práctica 1 - HTML&CSS Base](https://github.com/elicastillo0/practica1_htmlcss)
+- [Práctica 2 – Layouts Flexbox y CSS Grid](https://github.com/elicastillo0/practica2_flexboxgrid)
 
 *(Iré añadiendo más prácticas conforme avance en los módulos)*
 
