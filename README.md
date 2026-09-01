@@ -110,6 +110,7 @@ He organizado los repositorios cronológicamente por temas y módulos, reflejand
 
 ### 🔹 Módulo 10
 - [Práctica 1 - Introducción a React y JSX](https://github.com/elicastillo0/practica1_react)
+- [Práctica 2 - Estado, Efectos y Componentes en React](https://github.com/elicastillo0/practica2_react)
   
 *(Iré añadiendo más prácticas conforme avance en los módulos)*
 
