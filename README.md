@@ -1,52 +1,31 @@
-# 👨‍💻 Elí Castillo Pérez – Full Stack Developer en formación (11 de 14 módulos enviados – 10 superados)
+# 👨‍💻 Elí Castillo Pérez – Full Stack Developer
 
-Este perfil recopila todas mis **pruebas y prácticas** del Curso Superior Full Stack Developer en Deusto Formación.
+Este perfil recopila todas mis **pruebas, prácticas y proyectos** completados durante el Curso Superior Full Stack Developer en Deusto Formación. 
 
-He organizado los proyectos por tema y estado, con enlaces directos a cada repositorio.
+He organizado los repositorios cronológicamente por temas y módulos, reflejando tanto la base teórica como la implementación práctica en *Frontend*, *Backend*, *DevOps* y *Bases de Datos*.
 
-Mi objetivo es mostrar un portafolio académico y profesional transparente que refleje tanto los logros alcanzados como las tecnologías que sigo aprendiendo.
+### 📌 Resumen Académico
 
-### 📌 Logros hasta ahora
+* 🧪 **Pruebas de evaluación:** 14 de 14 pruebas superadas (Calificación promedio: 10/10).
+* 🚀 **Estado actual:** Proyecto Final de Curso entregado (Pendiente de corrección).
 
-🧪 Pruebas oficiales
+---
+### 🛠️ Competencias Técnicas Adquiridas
 
-✅ 10 pruebas superadas con nota máxima (10/10)
+* **Lenguajes:** JavaScript (ES6+), TypeScript, HTML5, CSS3.
+* **Frontend:** React, React Router, Angular, RxJS, Redux.
+* **Backend:** Node.js, Express, diseño y consumo de APIs RESTful.
+* **Bases de Datos:** SQL (MySQL) y NoSQL (MongoDB, Mongoose).
+* **Testing:** Jest, Cypress (pruebas unitarias y end-to-end).
+* **DevOps & Herramientas:** Git, GitHub, Docker, Docker Compose, CI/CD (GitHub Actions), Swagger/OpenAPI, Heroku.
+* **Arquitectura:** Principios SOLID, Clean Code y arquitectura orientada a servicios.
 
-📤 Prueba 11 (React Router) enviada el 31/03/2026 – pendiente de corrección
+---
 
-⏳ Prueba 12 (Angular) pendiente de realizar
+## 🚀 Proyecto Final de Curso
 
-🛠️ Competencias técnicas adquiridas
-
-Git y control de versiones
-
-ECMAScript 2015 (ES6+)
-
-TypeScript
-
-Testing automatizado (Jest, Cypress)
-
-Node.js y Express
-
-Diseño y desarrollo de APIs REST
-
-Bases de datos SQL y NoSQL
-
-DevOps básico (Docker, CI/CD)
-
-Desarrollo Web (HTML5, CSS3, JS moderno)
-
-React y React Router
-
-🚀 Prácticas destacadas
-
-Proyectos en HTML + CSS, JavaScript moderno, TypeScript, Node.js, Express, Swagger/OpenAPI
-
-Baterías de tests con Jest y Cypress
-
-Pipelines de CI/CD con GitHub Actions
-
-Despliegues automáticos en Heroku
+* 📦 **[Proyecto Final – Full Stack Developer](https://github.com/elicastillo0)** `(Pendiente de corrección)`
+  * *Aplicación Full Stack completa integrando arquitectura Frontend en Angular, API REST en Node.js/Express, persistencia de datos y buenas prácticas de desarrollo (SOLID, Clean Code).*
 
 ---
 
