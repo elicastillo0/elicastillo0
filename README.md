@@ -102,19 +102,3 @@ He organizado los repositorios cronológicamente por temas y módulos, reflejand
 *(Iré añadiendo más prácticas conforme avance en los módulos)*
 
 ---
-
-### 🚀 Habilidades adquiridas 
-- 🟢 Control de versiones con **Git y GitHub**.
-- 🌐 Desarrollo de aplicaciones con **JavaScript (ES6+)** y **TypeScript**.
-- 💻 Backend con **Node.js y Express**, incluyendo **middleware personalizado**.
-- 📑 Documentación de APIs con **Swagger/OpenAPI**.
-- 🧪 Testing automatizado con **Jest** y **Cypress**.
-- 🗄️ Diseño y consulta de **bases de datos**.
-- ⚙️ Configuración de **flujos CI/CD** en GitHub Actions y despliegues en Heroku.
-- 🌍 Desarrollo web con **HTML, CSS y JavaScript**.
-- ⚛️ ReactJS / React Router
-
-## 🚀 Tecnologías pendientes de practicar  
-- 🅰️ Angular  
-- 🔄 RxJS / Redux  
-- 🏗️ Arquitectura y buenas prácticas
