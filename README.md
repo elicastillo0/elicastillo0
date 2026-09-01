@@ -84,6 +84,7 @@ He organizado los repositorios cronológicamente por temas y módulos, reflejand
 - [Práctica 4 – Middleware Personalizado en Express](https://github.com/elicastillo0/practica4modulo5_middleware)
 - [Práctica 5 – Manejo de Archivos](https://github.com/elicastillo0/practica5modulo5_archivos)
 - [Práctica 6 – Lógica de Respuestas](https://github.com/elicastillo0/practica6modulo5_logicarespuestas)
+
 ### 🔹 Módulo 6
 - [Práctica 1 – Entidades](https://github.com/elicastillo0/practica1_entidades)
 - [Práctica 2 – Verbos HTTP y Swagger](https://github.com/elicastillo0/practica2_verbosHTTPswagger)
@@ -92,10 +93,12 @@ He organizado los repositorios cronológicamente por temas y módulos, reflejand
 ### 🔹 Módulo 7
 - [Práctica 1 – MySQL + Node.js](https://github.com/elicastillo0/practica1_MySQL)
 - [Práctica 2 – MongoDB + Mongoose (API LaLiga)](https://github.com/elicastillo0/practica2_Mongoose)
+
 ### 🔹 Módulo 8
 - [Práctica 1 - Docker: Contenerización de una Aplicación Node.js](https://github.com/elicastillo0/practica1_docker)
 - [Práctica 2 – Docker Compose: API Node.js con MongoDB](https://github.com/elicastillo0/practica2_docker)
 - [Práctica Adicional – appnodeci: despliegue automático en Heroku usando GitHub Actions](https://github.com/elicastillo0/appnodeci)
+
 ### 🔹 Módulo 9
 - [Práctica 1 - HTML&CSS Base](https://github.com/elicastillo0/practica1_htmlcss)
 - [Práctica 2 – Layouts Flexbox y CSS Grid](https://github.com/elicastillo0/practica2_flexboxgrid)
@@ -104,6 +107,9 @@ He organizado los repositorios cronológicamente por temas y módulos, reflejand
 - [Práctica 5 – Maquetación responsive con sistema de grid y componentes interactivos Collapse en Bootstrap 5](https://github.com/elicastillo0/practica5_bootstrap)
 - [Práctica 6 – Integración de Tailwind CSS mediante CDN y estilado Utility-First](https://github.com/elicastillo0/practica6_tailwind)
 - [Práctica 7 – Depuración e Inspección Web con DevTools](https://github.com/elicastillo0/practica7_devtools)
+
+### 🔹 Módulo 10
+- [Práctica 1 - Introducción a React y JSX](https://github.com/elicastillo0/practica1_react)
   
 *(Iré añadiendo más prácticas conforme avance en los módulos)*
 
