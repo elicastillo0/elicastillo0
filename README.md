@@ -28,7 +28,7 @@ La organización de los repositorios refleja la evolución técnica del programa
 
 ### 🚀 Proyecto Final de Curso
 
-#### 📦 [Proyecto Final – Aplicación de Gestión de Proveedores Full Stack](https://github.com/TU_USUARIO/TU_REPOSITORIO)
+#### 📦 [Proyecto Final – Aplicación de Gestión de Proveedores Full Stack](https://github.com/TU_USUARIO/TU_REPOSITORIO) *(Pendiente de subir)*
 * **Estado:** **Aprobado / Superado** 🏆 (Calificación: **10/10**)
 * **Descripción:** Aplicación Full Stack orientada a la gestión integral de proveedores, construida bajo arquitectura desacoplada.
 * **Stack Principal:**
@@ -51,9 +51,9 @@ La organización de los repositorios refleja la evolución técnica del programa
 - 📦 [Prueba 9 – Desarrollo web](https://github.com/elicastillo0/prueba-final-modulo-9)
 - 📦 [Prueba 10 – ReactJS](https://github.com/elicastillo0/prueba-final-modulo-10)
 - 📦 [Prueba 11 – React Router](https://github.com/elicastillo0/prueba-final-modulo-11)
-- 📦 Prueba 12 – Angular
-- 📦 Prueba 13 – Programación Reactiva (RxJS y Redux)
-- 📦 Prueba 14 – Arquitectura y buenas prácticas
+- 📦 Prueba 12 – Angular *(Pendiente de subir)*
+- 📦 Prueba 13 – Programación Reactiva (RxJS y Redux) *(Pendiente de subir)*
+- 📦 Prueba 14 – Arquitectura y buenas prácticas *(Pendiente de subir)*
 
 
 ---
@@ -124,6 +124,6 @@ La organización de los repositorios refleja la evolución técnica del programa
 ### 🔹 Módulo 11
 - [Práctica 1 - Rutas Protegidas y Navegación en React](https://github.com/elicastillo0/practica1_reactrouter)
   
-*(Próximamente estaré actualizando las prácticas de los módulos restantes)*
+*(Pendiente de subir)*
 
 ---
