@@ -123,6 +123,9 @@ La organización de los repositorios refleja la evolución técnica del programa
 
 ### 🔹 Módulo 11
 - [Práctica 1 - Rutas Protegidas y Navegación en React](https://github.com/elicastillo0/practica1_reactrouter)
+
+### 🔹 Módulo 12
+- [Práctica 1 - Fundamentos de Data Binding en Angular: Interpolación, Property Binding y Event Binding](https://github.com/elicastillo0/practica1_angular)
   
 *(Pendiente de subir)*
 
