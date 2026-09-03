@@ -124,6 +124,6 @@ La organización de los repositorios refleja la evolución técnica del programa
 ### 🔹 Módulo 11
 - [Práctica 1 - Rutas Protegidas y Navegación en React](https://github.com/elicastillo0/practica1_reactrouter)
   
-*(Iré añadiendo más prácticas conforme avance en los módulos)*
+*(Próximamente estaré actualizando las prácticas de los módulos restantes)*
 
 ---
