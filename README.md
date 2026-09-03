@@ -9,14 +9,14 @@ La organización de los repositorios refleja la evolución técnica del programa
 ### 📌 Resumen Académico
 
 * 🧪 **Pruebas de evaluación:** 14 de 14 pruebas superadas (Calificación promedio: **10/10**).
-* 🚀 **Estado actual:** **Curso Completado** – Proyecto Final evaluado y aprobado (Calificación: **10/10**) .
+* 🚀 **Estado actual:** **Curso Completado** – Proyecto Final evaluado y aprobado (Calificación: **10/10**).
 * 🎓 **Titulaciones:** Diploma en *Full Stack Developer* (Deusto Formación) y Titulación Acreditada por la *Fundación General de la Universidad de Salamanca (FGUSAL: En tramitación)*.
 
 ---
 
 ### 🛠️ Competencias Técnicas
 
-* **Lenguajes:** JavaScript (ES6+), TypeScript, HTML5, CSS3.
+* **Lenguajes de programación:** JavaScript (ES6+), TypeScript, HTML5, CSS3.
 * **Desarrollo Frontend:** Angular, RxJS, React, React Router, Redux.
 * **Desarrollo Backend:** Node.js, Express.js, diseño y arquitectura de APIs RESTful.
 * **Bases de Datos:** SQL (MySQL) y NoSQL (MongoDB, Mongoose).
@@ -28,12 +28,12 @@ La organización de los repositorios refleja la evolución técnica del programa
 
 ### 🚀 Proyecto Final de Curso
 
-#### 📦 [Proyecto Final – Full Stack Provider Management App](LINK_A_TU_REPOSITORIO)
-* **Estado:** **Aprobado / Superado** 🏆
+#### 📦 Proyecto Final – Aplicación de gestión de proveedores Full Stack
+* **Estado:** **Aprobado / Superado** 🏆 (Calificación: 10/10)
 * **Descripción:** Aplicación Full Stack orientada a la gestión integral de proveedores, construida bajo arquitectura desacoplada.
 * **Stack Principal:**
   * **Frontend:** Angular con TypeScript y consumo de servicios reactivos (RxJS).
-  * **Backend:** REST API en Node.js con Express.
+  * **Backend:** API REST en Node.js con Express.
   * **Buenas Prácticas:** Implementación de principios SOLID, Clean Code y manejo de módulos independientes.
 
 ---
