@@ -80,7 +80,7 @@ La organización de los repositorios refleja la evolución técnica del programa
 ### 🔹 Módulo 4
 - [Práctica 1 – Diseño de Pruebas Automatizadas en JavaScript con Jest](https://github.com/elicastillo0/practica1modulo4)
 - [Práctica 2 – Aplicación Web Interactiva con Tareas en JavaScript](https://github.com/elicastillo0/practica2modulo4)
-- [Práctica 3 – Automatización de Pruebas con Cypres](https://github.com/elicastillo0/practica3modulo4)
+- [Práctica 3 – Automatización de Pruebas con Cypress](https://github.com/elicastillo0/practica3modulo4)
 - [Práctica 4 – Pruebas Unitarias con JavaScript y Jest](https://github.com/elicastillo0/practica4modulo4)
 
 ### 🔹 Módulo 5
