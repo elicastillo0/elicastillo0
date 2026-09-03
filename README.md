@@ -38,7 +38,7 @@ La organización de los repositorios refleja la evolución técnica del programa
 
 ---
 
-## ✅ Pruebas completadas y corregidas
+### ✅ Pruebas de evaluación completadas (14/14)
 
 - 📦 [Prueba 1 – GIT. Control de versiones](https://github.com/elicastillo0/practica1)
 - 📦 [Prueba 2 – ECMAScript 2015](https://github.com/elicastillo0/practica2)
@@ -51,13 +51,10 @@ La organización de los repositorios refleja la evolución técnica del programa
 - 📦 [Prueba 9 – Desarrollo web](https://github.com/elicastillo0/prueba-final-modulo-9)
 - 📦 [Prueba 10 – ReactJS](https://github.com/elicastillo0/prueba-final-modulo-10)
 - 📦 [Prueba 11 – React Router](https://github.com/elicastillo0/prueba-final-modulo-11)
----
+- 📦 Prueba 12 – Angular
+- 📦 Prueba 13 – Programación Reactiva (RxJS y Redux)
+- 📦 Prueba 14 – Arquitectura y buenas prácticas
 
-## ⏳ Pruebas pendientes de subir
-
-- 📌 Prueba 12 – Angular 
-- 📌 Prueba 13 – Programación Reactiva (RxJS y Redux) 
-- 📌 Prueba 14 – Arquitectura y buenas prácticas
 
 ---
 
