@@ -1,31 +1,40 @@
-# 👨‍💻 Elí Castillo Pérez – Full Stack Developer
+# 👨‍💻 Elí Castillo Pérez – Desarrollador Full Stack
 
-Este perfil recopila todas mis **pruebas, prácticas y proyectos** completados durante el Curso Superior Full Stack Developer en Deusto Formación. 
+Este perfil recopila todas mis pruebas, prácticas y proyectos completados durante el **Curso Superior Full Stack Developer** en **Deusto Formación**, finalizado con éxito.
 
-He organizado los repositorios cronológicamente por temas y módulos, reflejando tanto la base teórica como la implementación práctica en *Frontend*, *Backend*, *DevOps* y *Bases de Datos*.
+La organización de los repositorios refleja la evolución técnica del programa, estructurada por temas y módulos que abarcan **Frontend**, **Backend**, **DevOps** y **Bases de Datos**.
+
+---
 
 ### 📌 Resumen Académico
 
-* 🧪 **Pruebas de evaluación:** 14 de 14 pruebas superadas (Calificación promedio: 10/10).
-* 🚀 **Estado actual:** Proyecto Final de Curso entregado (Pendiente de corrección).
+* 🧪 **Pruebas de evaluación:** 14 de 14 pruebas superadas (Calificación promedio: **10/10**).
+* 🚀 **Estado actual:** **Curso Completado** – Proyecto Final evaluado y aprobado (Calificación: **10/10**) .
+* 🎓 **Titulaciones:** Diploma en *Full Stack Developer* (Deusto Formación) y Titulación Acreditada por la *Fundación General de la Universidad de Salamanca (FGUSAL: En tramitación)*.
 
 ---
-### 🛠️ Competencias Técnicas Adquiridas
+
+### 🛠️ Competencias Técnicas
 
 * **Lenguajes:** JavaScript (ES6+), TypeScript, HTML5, CSS3.
-* **Frontend:** React, React Router, Angular, RxJS, Redux.
-* **Backend:** Node.js, Express, diseño y consumo de APIs RESTful.
+* **Desarrollo Frontend:** Angular, RxJS, React, React Router, Redux.
+* **Desarrollo Backend:** Node.js, Express.js, diseño y arquitectura de APIs RESTful.
 * **Bases de Datos:** SQL (MySQL) y NoSQL (MongoDB, Mongoose).
-* **Testing:** Jest, Cypress (pruebas unitarias y end-to-end).
+* **Testing & Calidad:** Jest, Cypress (pruebas unitarias y end-to-end).
 * **DevOps & Herramientas:** Git, GitHub, Docker, Docker Compose, CI/CD (GitHub Actions), Swagger/OpenAPI, Heroku.
-* **Arquitectura:** Principios SOLID, Clean Code y arquitectura orientada a servicios.
+* **Arquitectura & Principios:** Principios SOLID, DRY, Clean Code y arquitectura orientada a servicios.
 
 ---
 
-## 🚀 Proyecto Final de Curso
+### 🚀 Proyecto Final de Curso
 
-* 📦 **[Proyecto Final – Full Stack Developer](https://github.com/elicastillo0)** `(Pendiente de corrección)`
-  * *Aplicación Full Stack completa integrando arquitectura Frontend en Angular, API REST en Node.js/Express, persistencia de datos y buenas prácticas de desarrollo (SOLID, Clean Code).*
+#### 📦 [Proyecto Final – Full Stack Provider Management App](LINK_A_TU_REPOSITORIO)
+* **Estado:** **Aprobado / Superado** 🏆
+* **Descripción:** Aplicación Full Stack orientada a la gestión integral de proveedores, construida bajo arquitectura desacoplada.
+* **Stack Principal:**
+  * **Frontend:** Angular con TypeScript y consumo de servicios reactivos (RxJS).
+  * **Backend:** REST API en Node.js con Express.
+  * **Buenas Prácticas:** Implementación de principios SOLID, Clean Code y manejo de módulos independientes.
 
 ---
 
