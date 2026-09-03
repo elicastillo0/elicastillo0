@@ -28,14 +28,14 @@ La organización de los repositorios refleja la evolución técnica del programa
 
 ### 🚀 Proyecto Final de Curso
 
-#### 📦 Proyecto Final – Aplicación de gestión de proveedores Full Stack
-* **Estado:** **Aprobado / Superado** 🏆 (Calificación: 10/10)
+#### 📦 [Proyecto Final – Aplicación de Gestión de Proveedores Full Stack](https://github.com/TU_USUARIO/TU_REPOSITORIO)
+* **Estado:** **Aprobado / Superado** 🏆 (Calificación: **10/10**)
 * **Descripción:** Aplicación Full Stack orientada a la gestión integral de proveedores, construida bajo arquitectura desacoplada.
 * **Stack Principal:**
   * **Frontend:** Angular con TypeScript y consumo de servicios reactivos (RxJS).
   * **Backend:** API REST en Node.js con Express.
   * **Buenas Prácticas:** Implementación de principios SOLID, Clean Code y manejo de módulos independientes.
-
+ 
 ---
 
 ### ✅ Pruebas de evaluación completadas (14/14)
